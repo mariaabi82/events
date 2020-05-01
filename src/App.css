@@ -124,3 +124,17 @@ a{
   border-radius: 20px;
   position: absolute;
 }
+
+footer {
+  background-color: black;
+  color: orangered;
+  height: 80px;
+  padding: 20px;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer a, h5 {
+  color: orangered
+}
